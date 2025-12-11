@@ -17,9 +17,10 @@ If you do not have Homebrew, install it with:
 3. Choose a Folder for the Project
 Navigate to the folder where you want the repository to live. For example, to use your Documents folder:
 `cd ~/Documents`
+
 Replace Documents with any folder path you prefer.
 
-4. Clone this repository 
+5. Clone this repository 
 Click the green Code button and copy the GitHub CLI.
 Paste that into your terminal.
 
