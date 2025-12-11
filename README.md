@@ -9,7 +9,7 @@ Most Macs already have Git installed. To check, open Terminal and run:
 If you see a version number, Git is installed.
 If you do not see a version number, install Git with Homebrew:
 
-   brew install git
+      brew install git
 
 If you do not have Homebrew, install it with:
 
