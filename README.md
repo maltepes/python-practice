@@ -14,6 +14,10 @@ Using Git with GitHub makes it easy to download projects to your computer, make 
 
 # **How to use github!**
 
+You need to access the files in this repo. In order to do that, you need to clone the repo. Then the whole repo will be available on your local computer.
+
+Git will allow you to do this. 
+
 ## 1. Install Git
    
 Most Macs already have Git installed. To check, open Terminal and run:
