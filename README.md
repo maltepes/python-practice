@@ -1,6 +1,6 @@
-##**How to use github!**
+**How to use github!**
 
-#1. Install Git
+1. Install Git
    
 Most Macs already have Git installed. To check, open Terminal and run:
 `git --version`
