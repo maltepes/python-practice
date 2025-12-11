@@ -31,6 +31,6 @@ Paste that into your terminal.
 
 Example:
       
-      gh repo clone maltepes/repo-name 
+   gh repo clone maltepes/repo-name 
 
 This creates a new folder named repo-name with the project files.
