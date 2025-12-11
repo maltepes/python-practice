@@ -1,6 +1,6 @@
-**How to use github!**
+##**How to use github!**
 
-1. Install Git
+#1. Install Git
    
 Most Macs already have Git installed. To check, open Terminal and run:
 `git --version`
@@ -28,6 +28,3 @@ Paste that into your terminal.
 Example:
 `gh repo clone maltepes/repo-name`
 This creates a new folder named repo-name with the project files.
-
-5. Open the repository folder
-cd repo-name
