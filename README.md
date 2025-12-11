@@ -20,8 +20,7 @@ If you do not have Homebrew, install it with:
 ## 3. Choose a folder for the project
 
 Navigate to the folder where you want the repository to live. 
-For example, to use your Documents folder:
-      cd ~/Documents
+For example, to use your Documents folder: `cd ~/Documents`
 
 Replace Documents with any folder path you prefer.
 
