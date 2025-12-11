@@ -20,8 +20,9 @@ Navigate to the folder where you want the repository to live. For example, to us
 
 Replace Documents with any folder path you prefer.
 
-5. Clone this repository 
-Click the green Code button and copy the GitHub CLI.
+5. Clone this repository
+
+Click the green "Code" button and copy the GitHub CLI.
 Paste that into your terminal.
 
 Example:
