@@ -10,7 +10,7 @@ If you do not see a version number, install Git with Homebrew:
 `brew install git`
 
 If you do not have Homebrew, install it with:
-   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"   
+`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
 2. Open your terminal
 
