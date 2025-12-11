@@ -1,3 +1,17 @@
+# Overview
+
+**Why are we using github?**
+
+GitHub is a website where people store and share projects and code. Cloning a project means making a copy of the project on your computer. This allows you to open the files, run the code, make changes, or explore the project on your own computer without affecting the original project on GitHub. 
+
+**Git vs Github:**
+
+Git is a command line tool that keeps track of changes you make to files in a project. It remembers what was changed and when, so you can review or undo changes if needed.
+
+GitHub is a website that works with Git. It lets you store projects online and share them with others. 
+
+Using Git with GitHub makes it easy to download projects to your computer, make changes, and keep your work organized while staying up to date with changes made by others.
+
 # **How to use github!**
 
 ## 1. Install Git
